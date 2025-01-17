@@ -1,5 +1,4 @@
 # FarmVest
 FarmVest
 
-
- https://morqqulis.github.io/FarmVest/
+https://bayrambehbudov.github.io/Farm/
